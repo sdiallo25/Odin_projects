@@ -1,0 +1,1 @@
+This project, I'll be tackling the recreation of the google homepage, as a way to practice my front end capabilities.
